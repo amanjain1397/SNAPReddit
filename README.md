@@ -15,3 +15,6 @@ Number of files required = 3
 3) Embedding vectors of subreddits (communities on Reddit). [**Download here**](http://snap.stanford.edu/data/web-redditEmbeddings-subreddits.csv). This file generates one numerical vector in low dimensional space (a.k.a. embeddings) for each subreddit. The embeddings are 300 dimensions each. Two subreddit embeddings are similar if the users who post in them are similar.
 
 The *.csv files downloaded above need to be stored in ./input/ of your project directory.
+
+# Workthrough
+Implementation of the project can be found here: https://medium.com/@amanjain1397/link-prediction-in-directed-subreddit-hyperlink-network-part-1-fe867800b9e3
