@@ -59,3 +59,6 @@ This creates the edgelist file at **./src/input/graph.txt**.
 ```bash
 python main.py --tasks gridsearch --workers 2
 ```
+
+### More Info
+Learn about Stanford Network Analysis Project (SNAP) from [here](http://snap.stanford.edu/). The reference python implementation of node2vec can be found [here](https://github.com/aditya-grover/node2vec).
